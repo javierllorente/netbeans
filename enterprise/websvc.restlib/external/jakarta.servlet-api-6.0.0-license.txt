@@ -1,9 +1,9 @@
 Name: Jakarta Servlet API
-Version: 4.0.4
+Version: 6.0.0
 Description: Jakarta Servlet defines a server-side API for handling HTTP requests and responses
 License: EPL-v20
 Origin: https://projects.eclipse.org/projects/ee4j.servlet
-Files: jakarta.servlet-api-4.0.4.jar
+Files: jakarta.servlet-api-6.0.0.jar
 
 Eclipse Public License - v 2.0
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE (“AGREEMENT”). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.

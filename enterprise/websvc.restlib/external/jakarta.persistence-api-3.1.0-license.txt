@@ -1,9 +1,9 @@
 Name: Jakarta Persistence API
-Version: 2.2.3
+Version: 3.1.0
 Description: Jakarta Persistence defines a standard for management of persistence and object/relational mapping in Java(R) environments
 License: EPL-v20
 Origin: https://github.com/eclipse-ee4j/jpa-api
-Files: jakarta.persistence-api-2.2.3.jar
+Files: jakarta.persistence-api-3.1.0.jar
 
 Eclipse Public License - v 2.0
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE (“AGREEMENT”). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.

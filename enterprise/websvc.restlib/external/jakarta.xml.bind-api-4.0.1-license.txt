@@ -1,9 +1,9 @@
 Name: Jakarta XML Binding API
-Version: 2.3.3
+Version: 4.0.1
 Description: The Jakarta XML Binding provides an API and tools that automate the mapping between XML documents and Java objects.
 License: EDL-1.0
 Origin: https://github.com/eclipse-ee4j/jaxb-api
-Files: jakarta.xml.bind-api-2.3.3.jar
+Files: jakarta.xml.bind-api-4.0.1.jar
 
 Eclipse Distribution License - v 1.0
 

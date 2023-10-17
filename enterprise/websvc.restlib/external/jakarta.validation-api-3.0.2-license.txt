@@ -1,5 +1,5 @@
 Name: Jakarta Bean Validation API
-Version: 2.0.2
+Version: 3.0.2
 Description: Jakarta Bean Validation defines a metadata model and API for JavaBean and method validation
 License: Apache-2.0
 Origin: https://github.com/eclipse-ee4j/beanvalidation-api

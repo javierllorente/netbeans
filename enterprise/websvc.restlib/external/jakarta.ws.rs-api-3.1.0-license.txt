@@ -1,9 +1,9 @@
 Name: Jakarta RESTful Web Services
-Version: 2.1.6
+Version: 3.1.0
 Description: Jakarta RESTful Web Services provides a specification document, TCK and foundational API to develop web services following the Representational State Transfer (REST) architectural pattern
 License: EPL-v20
 Origin: https://github.com/eclipse-ee4j/jaxrs-api
-Files: jakarta.ws.rs-api-2.1.6.jar
+Files: jakarta.ws.rs-api-3.1.0.jar
 
 Eclipse Public License - v 2.0
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE (“AGREEMENT”). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
